@@ -9,7 +9,7 @@ bool cyclic_perm_detector(char* parent, char* sample);
 
 int main(int argc, char* argv[])
 {
-	only accept two arguments
+	//only accept two arguments
 	if(argc != NUM_ARGS)
 	{
 		printf("Limit of 2 arguments only");
